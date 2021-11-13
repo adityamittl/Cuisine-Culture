@@ -21,3 +21,6 @@ def ingredient(request):
 def recepies(request):
 
     return render(request,'recipes.html')
+
+def addfoods(request):
+    return render(request,'addFood.html')

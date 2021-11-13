@@ -23,5 +23,6 @@ urlpatterns = [
     path('calories',cals),
     path('exercise',exercise),
     path('ingredients',ingredient),
-    path('recepies',recepies)
+    path('recepies',recepies),
+    path('addfood',addfoods)
 ]

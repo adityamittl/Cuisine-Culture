@@ -11,6 +11,8 @@ Eating a poor quality diet high in junk food is linked to a higher risk of obesi
 - Keep track of your workout.
 - Find recopies.
 - Easy to keep track.
+- Personalized exercise recommendation based on your BMI and calories intake
+- calculation of Base melabolic Rate (BMR) to recommend calories intake according to you
 
 ## ⚙️How we built it
 
@@ -21,4 +23,4 @@ Eating a poor quality diet high in junk food is linked to a higher risk of obesi
 
 ## 🧠 Challenges we ran into
 
--
+- To complete the whole project in the given time frame with constraints of exam schedule and poor health of team member.
